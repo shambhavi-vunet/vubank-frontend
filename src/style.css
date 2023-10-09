@@ -1,0 +1,1123 @@
+.landing-page {
+    background-color: #ffffff;
+    height: 2372px;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+}
+
+.landing-page .overlap {
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: #dbdbdb;
+    height: 80px;
+    left: 0;
+    position: relative;
+    top: 0;
+    width: 100%;
+}
+
+.landing-page .group-22 {
+    height: 33px;
+    left: 49px;
+    position: absolute;
+    top: 22px;
+    width: 148px;
+}
+
+.landing-page .group-23 {
+    height: 33px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 71px;
+}
+
+.landing-page .bank {
+    height: 25px;
+    left: 76px;
+    position: absolute;
+    top: 3px;
+    width: 72px;
+}
+
+.landing-page .frame {
+    align-items: center;
+    background-color: #11339a;
+    border-radius: 4px;
+    display: inline-flex;
+    gap: 8px;
+    left: 45%;
+    padding: 4px 16px;
+    position: relative;
+    top: 22px;
+}
+
+.landing-page .user {
+    height: 16px;
+    position: relative;
+    width: 16px;
+}
+
+.landing-page .group-24 {
+    height: 28px;
+    margin-right: -2px;
+    position: relative;
+    width: 41px;
+}
+
+.landing-page .text-wrapper-16 {
+    color: var(--whitewhite);
+    font-family: "Heebo", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    height: 28px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 28px;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    white-space: nowrap;
+}
+
+.landing-page .accounts-instance {
+    left: 573px !important;
+    position: absolute !important;
+    top: 20px !important;
+}
+
+.landing-page .cards-instance {
+    left: 709px !important;
+    position: absolute !important;
+    top: 20px !important;
+}
+
+.landing-page .offers-instance {
+    left: 817px !important;
+    position: absolute !important;
+    top: 20px !important;
+}
+
+.landing-page .quick-assistance-instance {
+    left: 927px !important;
+    position: absolute !important;
+    top: 20px !important;
+}
+
+.landing-page .why-choose-us-vubank {
+    color: #293646;
+    font-family: "Heebo", Helvetica;
+    font-size: 24px;
+    font-weight: 500;
+    left: 506px;
+    letter-spacing: 0;
+    line-height: 40px;
+    position: absolute;
+    text-align: center;
+    top: 511px;
+    white-space: nowrap;
+}
+
+.landing-page .text-wrapper-17 {
+    color: #293646;
+    font-family: "Heebo", Helvetica;
+    font-size: 24px;
+    font-weight: 500;
+    left: 553px;
+    letter-spacing: 0;
+    line-height: 40px;
+    position: absolute;
+    text-align: center;
+    top: 849px;
+    white-space: nowrap;
+}
+
+.landing-page .text-wrapper-18 {
+    color: #000000;
+    font-family: "Heebo", Helvetica;
+    font-size: 24px;
+    font-weight: 500;
+    left: 609px;
+    letter-spacing: 0;
+    line-height: 40px;
+    position: absolute;
+    text-align: center;
+    top: 1723px;
+    white-space: nowrap;
+}
+
+.landing-page .group-25 {
+    height: 218px;
+    left: 233px;
+    position: absolute;
+    top: 584px;
+    width: 178px;
+}
+
+.landing-page .ellipse {
+    background-color: #de1c4917;
+    border-radius: 70px;
+    height: 140px;
+    left: 17px;
+    position: absolute;
+    top: 0;
+    width: 140px;
+}
+
+.landing-page .text-wrapper-19 {
+    color: #9d2a8b;
+    font-family: "Heebo", Helvetica;
+    font-size: 22px;
+    font-weight: 500;
+    left: 44px;
+    letter-spacing: 0;
+    line-height: 40px;
+    position: absolute;
+    text-align: center;
+    top: 146px;
+    white-space: nowrap;
+}
+
+.landing-page .lorem-ipsum-dolor {
+    color: #293646;
+    font-family: "Inter", Helvetica;
+    font-size: 14px;
+    font-weight: 500;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 32px;
+    position: absolute;
+    top: 186px;
+    white-space: nowrap;
+}
+
+.landing-page .group-26 {
+    height: 218px;
+    left: 527px;
+    position: absolute;
+    top: 584px;
+    width: 229px;
+}
+
+.landing-page .ellipse-2 {
+    background-color: #de1c4917;
+    border-radius: 69.53px/70px;
+    height: 140px;
+    left: 43px;
+    position: absolute;
+    top: 0;
+    width: 139px;
+}
+
+.landing-page .text-wrapper-20 {
+    color: #9d2a8b;
+    font-family: "Heebo", Helvetica;
+    font-size: 22px;
+    font-weight: 500;
+    left: 61px;
+    letter-spacing: 0;
+    line-height: 40px;
+    position: absolute;
+    text-align: center;
+    top: 146px;
+    white-space: nowrap;
+}
+
+.landing-page .group-27 {
+    height: 218px;
+    left: 872px;
+    position: absolute;
+    top: 586px;
+    width: 178px;
+}
+
+.landing-page .text-wrapper-21 {
+    color: #9d2a8b;
+    font-family: "Heebo", Helvetica;
+    font-size: 22px;
+    font-weight: 500;
+    left: 53px;
+    letter-spacing: 0;
+    line-height: 40px;
+    position: absolute;
+    text-align: center;
+    top: 146px;
+    white-space: nowrap;
+}
+
+.landing-page .group-28 {
+    height: 453px;
+    left: 0;
+    position: absolute;
+    top: 1223px;
+    width: 1290px;
+}
+
+.landing-page .overlap-group {
+    background-color: #c91a72;
+    height: 52px;
+    left: 0;
+    position: absolute;
+    top: 401px;
+    width: 1279px;
+}
+
+.landing-page .now-enjoy-interest {
+    color: #ffffff;
+    font-family: "Heebo", Helvetica;
+    font-size: 18px;
+    font-weight: 500;
+    left: 301px;
+    letter-spacing: 0;
+    line-height: 40px;
+    position: absolute;
+    top: 6px;
+    white-space: nowrap;
+}
+
+.landing-page .span {
+    color: #ffffff;
+    font-family: "Heebo", Helvetica;
+    font-size: 18px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: 40px;
+}
+
+.landing-page .text-wrapper-22 {
+    text-decoration: underline;
+}
+
+.landing-page .overlap-2 {
+    height: 401px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1280px;
+}
+
+.landing-page .rectangle {
+    background-color: #da1b5017;
+    height: 400px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1280px;
+}
+
+.landing-page .app-store-img {
+    height: 32px;
+    left: 102px;
+    object-fit: cover;
+    position: absolute;
+    top: 326px;
+    width: 94px;
+}
+
+.landing-page .google-play-img {
+    height: 32px;
+    left: 210px;
+    object-fit: cover;
+    position: absolute;
+    top: 325px;
+    width: 105px;
+}
+
+.landing-page .download-the-vubank {
+    color: #293646;
+    font-family: "Heebo", Helvetica;
+    font-size: 18px;
+    font-weight: 500;
+    left: 102px;
+    letter-spacing: 0;
+    line-height: 40px;
+    position: absolute;
+    top: 272px;
+    white-space: nowrap;
+}
+
+.landing-page .the-bank-in-an-app {
+    color: #293646;
+    font-family: "Heebo", Helvetica;
+    font-size: 22px;
+    font-weight: 700;
+    left: 102px;
+    letter-spacing: 0;
+    line-height: 40px;
+    position: relative;
+    top: 42px;
+    white-space: nowrap;
+}
+
+.landing-page .text-wrapper-23 {
+    color: #293646;
+    font-family: "Heebo", Helvetica;
+    font-size: 22px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 40px;
+}
+
+.landing-page .text-wrapper-24 {
+    color: #293646;
+    font-family: "Heebo", Helvetica;
+    font-size: 22px;
+    font-weight: 500;
+    left: 102px;
+    letter-spacing: 0;
+    line-height: 40px;
+    position: absolute;
+    top: 93px;
+    white-space: nowrap;
+}
+
+.landing-page .fund-transfers {
+    color: #293646;
+    font-family: "Heebo", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 102px;
+    letter-spacing: 0;
+    line-height: 30px;
+    position: absolute;
+    top: 133px;
+}
+
+.landing-page .overlap-group-wrapper {
+    height: 371px;
+    left: 837px;
+    position: absolute;
+    top: 30px;
+    width: 268px;
+}
+
+.landing-page .overlap-group-2 {
+    height: 371px;
+    position: relative;
+}
+
+.landing-page .vector-wrapper {
+    background-image: url(https://c.animaapp.com/YZ71NYYj/img/image-removebg-preview-1@2x.png);
+    background-size: 100% 100%;
+    height: 371px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 268px;
+}
+
+.landing-page .vector {
+    height: 248px;
+    left: 28px;
+    position: absolute;
+    top: 11px;
+    width: 118px;
+}
+
+.landing-page .rectangle-2 {
+    background-color: #eaeaea;
+    border-radius: 0px 0px 8px 8px;
+    height: 17px;
+    left: 34px;
+    position: absolute;
+    top: 237px;
+    width: 109px;
+}
+
+.landing-page .frame-wrapper {
+    height: 248px;
+    left: 141px;
+    position: absolute;
+    top: 1796px;
+    width: 219px;
+}
+
+.landing-page .frame-2 {
+    background-color: #d9d9d9;
+    border-radius: 4px;
+    height: 248px;
+    overflow: hidden;
+}
+
+.landing-page .img-wrapper {
+    height: 256px;
+    position: relative;
+    width: 258px;
+}
+
+.landing-page .img-2 {
+    height: 248px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 219px;
+}
+
+.landing-page .group-29 {
+    height: 248px;
+    left: 400px;
+    position: absolute;
+    top: 1796px;
+    width: 219px;
+}
+
+.landing-page .overlap-group-3 {
+    background-image: url(https://c.animaapp.com/YZ71NYYj/img/image-16@2x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 248px;
+    position: relative;
+    width: 219px;
+}
+
+.landing-page .text-wrapper-25 {
+    color: #ffffff;
+    font-family: "Inter", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 24px;
+    letter-spacing: 0;
+    line-height: 32px;
+    position: absolute;
+    top: 143px;
+    white-space: nowrap;
+}
+
+.landing-page .p {
+    color: #ffffff;
+    font-family: "Inter", Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+    left: 24px;
+    letter-spacing: 0;
+    line-height: 24px;
+    position: absolute;
+    top: 175px;
+    width: 171px;
+}
+
+.landing-page .group-30 {
+    height: 248px;
+    left: 659px;
+    position: absolute;
+    top: 1796px;
+    width: 219px;
+}
+
+.landing-page .overlap-group-4 {
+    background-image: url(https://c.animaapp.com/YZ71NYYj/img/image-17@2x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 248px;
+    position: relative;
+    width: 219px;
+}
+
+.landing-page .rectangle-3 {
+    background-color: #0000007d;
+    box-shadow: 0px 4px 4px #00000040;
+    height: 248px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 219px;
+}
+
+.landing-page .group-31 {
+    height: 248px;
+    left: 918px;
+    position: absolute;
+    top: 1796px;
+    width: 219px;
+}
+
+.landing-page .overlap-group-5 {
+    background-image: url(https://c.animaapp.com/YZ71NYYj/img/image-18@2x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 248px;
+    position: relative;
+    width: 219px;
+}
+
+.landing-page .no-code-revolution {
+    color: #ffffff;
+    font-family: "Inter", Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+    left: 24px;
+    letter-spacing: 0;
+    line-height: 24px;
+    position: absolute;
+    top: 175px;
+    width: 179px;
+}
+
+.landing-page .overlap-wrapper {
+    height: 280px;
+    left: 0;
+    position: absolute;
+    top: 2092px;
+    width: 1300px;
+}
+
+.landing-page .overlap-3 {
+    background-color: #484848;
+    height: 280px;
+    position: relative;
+    width: 1280px;
+}
+
+.landing-page .about-vubank {
+    color: #ffffff;
+    font-family: "Inter", Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+    left: 50px;
+    letter-spacing: 0;
+    line-height: 40px;
+    position: absolute;
+    text-align: center;
+    top: 40px;
+    white-space: nowrap;
+}
+
+.landing-page .text-wrapper-26 {
+    color: #ffffff;
+    font-family: "Inter", Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+    left: 391px;
+    letter-spacing: 0;
+    line-height: 40px;
+    position: absolute;
+    text-align: center;
+    top: 40px;
+    white-space: nowrap;
+}
+
+.landing-page .download-vubank {
+    color: #ffffff;
+    font-family: "Inter", Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+    left: 996px;
+    letter-spacing: 0;
+    line-height: 40px;
+    position: absolute;
+    text-align: center;
+    top: 40px;
+    white-space: nowrap;
+}
+
+.landing-page .text-wrapper-27 {
+    color: #ffffff;
+    font-family: "Inter", Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+    left: 602px;
+    letter-spacing: 0;
+    line-height: 40px;
+    position: absolute;
+    text-align: center;
+    top: 40px;
+    white-space: nowrap;
+}
+
+.landing-page .text-wrapper-28 {
+    color: #ffffff;
+    font-family: "Inter", Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+    left: 776px;
+    letter-spacing: 0;
+    line-height: 40px;
+    position: absolute;
+    text-align: center;
+    top: 40px;
+    white-space: nowrap;
+}
+
+.landing-page .disclaimer-privacy {
+    color: #ffffff;
+    font-family: "Inter", Helvetica;
+    font-size: 14px;
+    font-weight: 500;
+    left: 602px;
+    letter-spacing: 0;
+    line-height: 32px;
+    position: absolute;
+    top: 83px;
+}
+
+.landing-page .savings-account {
+    color: #ffffff;
+    font-family: "Inter", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 391px;
+    letter-spacing: 0;
+    line-height: 32px;
+    position: absolute;
+    top: 83px;
+}
+
+.landing-page .text-wrapper-29 {
+    font-weight: 500;
+}
+
+.landing-page .text-wrapper-30 {
+    color: #ffffff;
+    font-family: "Inter", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 32px;
+}
+
+.landing-page .contact-us-locate-us {
+    color: #ffffff;
+    font-family: "Inter", Helvetica;
+    font-size: 14px;
+    font-weight: 500;
+    left: 776px;
+    letter-spacing: 0;
+    line-height: 32px;
+    position: absolute;
+    top: 83px;
+}
+
+.landing-page .app-store-img-2 {
+    height: 32px;
+    left: 996px;
+    object-fit: cover;
+    position: absolute;
+    top: 96px;
+    width: 94px;
+}
+
+.landing-page .google-play-img-2 {
+    height: 32px;
+    left: 1111px;
+    object-fit: cover;
+    position: absolute;
+    top: 96px;
+    width: 105px;
+}
+
+.landing-page .lorem-ipsum-dolor-2 {
+    color: #ffffff;
+    font-family: "Inter", Helvetica;
+    font-size: 14px;
+    font-weight: 500;
+    left: 50px;
+    letter-spacing: 0;
+    line-height: 28px;
+    position: absolute;
+    top: 83px;
+    width: 286px;
+}
+
+.landing-page .follow-us {
+    color: #ffffff;
+    font-family: "Inter", Helvetica;
+    font-size: 14px;
+    font-weight: 500;
+    left: 50px;
+    letter-spacing: 0;
+    line-height: 32px;
+    position: absolute;
+    top: 192px;
+    white-space: nowrap;
+}
+
+.landing-page .group-32 {
+    height: 29px;
+    left: 129px;
+    position: absolute;
+    top: 195px;
+    width: 170px;
+}
+
+.landing-page .group-33 {
+    height: 253px;
+    left: 118px;
+    position: absolute;
+    top: 922px;
+    width: 1043px;
+}
+
+.landing-page .group-34 {
+    height: 253px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 325px;
+}
+
+.landing-page .overlap-group-6 {
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: #d9d9d9;
+    border-radius: 8px;
+    height: 253px;
+    position: relative;
+    width: 321px;
+}
+
+.landing-page .text-wrapper-31 {
+    color: #293646;
+    font-family: "Heebo", Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+    height: 48px;
+    left: 20px;
+    letter-spacing: 0;
+    line-height: 24px;
+    position: absolute;
+    top: 181px;
+    width: 278px;
+}
+
+.landing-page .text-wrapper-32 {
+    color: #293646;
+    font-family: "Heebo", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    height: 30px;
+    left: 20px;
+    letter-spacing: 0;
+    line-height: 30px;
+    position: absolute;
+    top: 151px;
+    white-space: nowrap;
+}
+
+.landing-page .rectangle-4 {
+    height: 138px;
+    left: -1px;
+    object-fit: cover;
+    position: absolute;
+    top: -1px;
+    width: 321px;
+}
+
+.landing-page .group-35 {
+    height: 253px;
+    left: 361px;
+    position: absolute;
+    top: 0;
+    width: 325px;
+}
+
+.landing-page .text-wrapper-33 {
+    color: #293646;
+    font-family: "Heebo", Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+    height: 48px;
+    left: 20px;
+    letter-spacing: 0;
+    line-height: 24px;
+    position: absolute;
+    top: 188px;
+    width: 278px;
+}
+
+.landing-page .group-36 {
+    height: 253px;
+    left: 722px;
+    position: absolute;
+    top: 0;
+    width: 321px;
+}
+
+.landing-page .group-37 {
+    height: 253px;
+    width: 325px;
+}
+
+.landing-page .overlap-4 {
+    background-image: url(https://c.animaapp.com/YZ71NYYj/img/mask-group-1.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 400px;
+    left: 0;
+    position: absolute;
+    top: 80px;
+    width: 1280px;
+}
+
+.landing-page .arrow-back-ios {
+    height: 32px;
+    left: 50px;
+    position: absolute;
+    top: 162px;
+    width: 32px;
+}
+
+.landing-page .arrow-back-ios-fill {
+    height: 32px;
+    left: 1198px;
+    position: absolute;
+    top: 162px;
+    width: 32px;
+}
+
+.app-content {
+    width: 500px;
+    padding: 20px;
+    margin-left: 250px;
+    text-align: left;
+
+}
+
+.bank-app {
+    color: #293646;
+    font-family: "Heebo", Helvetica;
+    font-size: 22px;
+    font-weight: 700;
+    letter-spacing: 0;
+    text-align: left;
+    line-height: 40px;
+}
+
+.feature-title {
+    color: #293646;
+    font-family: "Heebo", Helvetica;
+    font-size: 22px;
+    text-align: left;
+    font-weight: 500;
+    left: 102px;
+    letter-spacing: 0;
+    line-height: 40px;
+    top: 93px;
+    white-space: nowrap;
+}
+
+ul.features {
+    list-style-type: circle;
+    text-align: left;
+}
+
+.item {
+    margin-bottom: 20px;
+}
+
+.download-text {
+    color: #293646;
+    font-family: "Heebo-Medium", Helvetica;
+    font-size: 18px;
+    font-weight: bold;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 40px;
+    top: 0;
+    white-space: nowrap;
+}
+
+.app-store {
+    margin-right: 10px;
+}
+
+.phone-hand {
+    margin-left: 400px;
+    margin-top: 30px;
+}
+
+.blog-thumbnail {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.about-us-section {
+    height: 300px;
+    width: 2000px;
+    background-color: #484848;
+    left: 0;
+    top: 0;
+    width: 2080px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.about-us-title {
+    color: #ffffff;
+    font-family: "Inter-Medium", Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 40px;
+    top: 0;
+    white-space: nowrap;
+}
+
+.about-us-content {
+    color: #ffffff;
+    font-family: "Inter-Medium", Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+    left: 0;
+    letter-spacing: 0;
+    top: 0;
+    white-space: nowrap;
+    overflow-wrap: break-word;
+}
+
+.section-wrapper {
+    width: fit-content;
+    text-align: left;
+    overflow-wrap: break-word;
+}
+
+.dropbtn {
+    background-color: white;
+    color: black;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {
+    background-color: #f1f1f1
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+    background-color: grey;
+}
+
+.login-btn {
+    background-color: #11339a;
+    color: white;
+}
+
+.login-logo {
+    padding: 20px;
+    text-align: left;
+}
+
+.login-pg {
+    background: #ededed;
+    height: 1000px;
+}
+
+.login-content {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.login-welcome {
+    color: #11319C;
+    font-size: 32px;
+    font-family: "Heebo-Medium", Helvetica;
+    height: 32px;
+    left: 0;
+    font-weight: 500;
+    word-wrap: 'break-word';
+    white-space: nowrap;
+}
+
+.login-message{
+    height: 32px;
+    width: 279px;
+    color: #293646;
+    font-family: "Heebo-Medium", Helvetica;
+    font-size: 20px;
+    font-weight: 500;
+    left: 0;
+    position: relative;
+    letter-spacing: 0;
+    line-height: 31.5px;
+    margin: 10px 10px 60px 40px;
+}
+
+.login-box{
+    background-color: #ffffff;
+    border: 0.82px solid;
+    border-color: #d0d0d0;
+    border-radius: 6.58px;
+    display: inline-flex;
+    flex-direction: column;
+    gap: 14px;
+    overflow: hidden;
+    padding: 16px;
+    position: relative;
+}
+
+.login-title{
+    text-align: center;
+    height: 26px;
+    width: 55px;
+    color: #293646;
+    font-family: "Heebo-Medium", Helvetica;
+    font-size: 20px;
+    font-weight: 500;
+    left:0px;
+    letter-spacing: 0;
+    white-space: nowrap;
+    margin: 10px 10px 10px 130px;
+}
+
+.text-input{
+    height: 33px;
+    width: 327px;
+    border: 0.82px solid;
+    border-color: #d0d0d0;
+
+
+}
+
+.login-submit-btn{
+    background-color: #11319C;
+    color:white;
+    border-radius: 3.29px;
+    height: 33px;
+    left:0;
+    top:0;
+    width: 327px;
+}
+
+.login-username{
+    text-align: left;
+}
+
+.login-credits{
+    color: #000000;
+    font-family: "Inter-Regular", Helventica;
+    font-size: 12px;
+    width: 260px;
+    font-weight: 400;
+    height: 15px;
+    letter-spacing: 0;
+    line-height: 25.9px;
+    white-space: nowrap;
+    margin-left: 5px;
+}
